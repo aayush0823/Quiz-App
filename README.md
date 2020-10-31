@@ -2,6 +2,9 @@
 
 The goal is to build a fully functional web application using [Go](https://golang.org) and [React](https://reactjs.org) along with RESTful API.
 
+# DEVELOPER
+  AAYUSH GOEL
+  
 ## To run this project you will require GO and React.
 
 # Go
